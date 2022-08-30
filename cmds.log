@@ -1,0 +1,54 @@
+    1  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  histroy > cmds.log
+    3  quit
+    4  git init 
+    5  git remote add origin https://github.com/yourname/mynewrepository.git
+    6  git remote add origin https://github.com/rishabhgupta/ws1.git
+    7  git remote remove origin 
+    8  git remote add origin https://github.com/rishabhgupta/ws1.git
+    9  history > cmds.log
+   10  touch cmds.log
+   11  git status
+   12  git add cmds.log
+   13  git status 
+   14  git remote remove origin 
+   15  git remote  add origin  https://github.com/rishabhg-nov/ws1.git
+   16  git status 
+   17  history > cmds.log
+   18  git status 
+   19  git init 
+   20  history > cmds.log
+   21  git status
+   22  git add cmds.log
+   23  git status
+   24  git init
+   25  git add cmds.log
+   26  git commit -m "first commit"
+   27  git config --global user.email "rishabhg.nov@gmail.com"
+   28  git config --global user.name "Rishabh Gupta"
+   29  Omit --global
+   30  git init
+   31  git add cmds.log
+   32  ls -l
+   33  pwd
+   34  ls -l
+   35  git
+   36  pwd
+   37  ls -l
+   38  more cmds.log
+   39  pwd
+   40  ls -l
+   41  ls -al
+   42  mkdir myProject 
+   43  cd myProject
+   44  git init 
+   45  ls -l
+   46  ls -al
+   47  touch rg.txt 
+   48  ls -l
+   49  git status
+   50  git add rg.txt 
+   51  git status
+   52  git commit -m "rishabh's new file: rg.txt"
+   53  history
+   54  history  > cmds.log 
